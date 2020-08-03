@@ -31,6 +31,12 @@ span.js {
   height: 100vh;
 }
 
+.main-wr > p {
+  text-align: center;
+  margin-top: 40px;
+  font-size: 20px;
+}
+
 .col.col-1 {
   padding-left: 2px;
   padding-right: 2px;
@@ -96,6 +102,12 @@ span.js {
 
 .users-wr p {
   font-size: 18px;
+}
+
+.users-wr > p {
+  text-align: center;
+  font-size: 16px;
+  margin-top: 15px;
 }
 
 .users-wr .user .col {
